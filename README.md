@@ -1,6 +1,6 @@
 # BY Blog
 
->说明：这个博客搭建是按照博主qiubaiying的简书教程一步步搭建的，为方便他人参考，这个ReadMe文档暂时先保留。
+**说明：这个博客搭建是按照博主qiubaiying的简书教程一步步搭建的，为方便他人参考，这个Readme文档暂时先保留。**
 
 > 下面是博客的搭建教程，这个教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 。
 > 
